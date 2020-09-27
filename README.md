@@ -8,10 +8,11 @@
 
 > Here were the results I analyzed in 2017:
 
-> ![2017 Results](2017Analysis.PNG)
+> ![2017 Stocks Results](2017Analysis.PNG)
 
 > Here were the results I analyzed in 2018:
-![2017 Results](2017Analysis.PNG)
+
+> ![2018 Stocks Results](2018Analysis.PNG)
 
 
 ## Summary: 
