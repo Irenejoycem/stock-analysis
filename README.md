@@ -1,6 +1,6 @@
 # stock-analysis
 ## Overview of Project: 
-> The purpose of this analysis was to provide a tool for a client that wanted to compare the Daily Volume of stocks traded and calculate the Return for multiple stocks. I compared a list of 12 stocks from 2017 and 2018 to form conclusions of what would be the best stocks to invest in.
+> The purpose of this analysis was to provide an interactive worksheet for a client that wanted to compare the Daily Volume of stocks traded and calculate the Return for multiple stocks. I developed a worksheet on Excel using VBA script to compare a list of 12 stocks from 2017 and 2018 to form conclusions of what would be the best stocks to invest in. 
 
 ## Results: 
 
