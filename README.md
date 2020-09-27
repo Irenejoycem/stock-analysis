@@ -1,10 +1,10 @@
 # stock-analysis
-> ## Overview of Project: 
-The purpose of this analysis was to provide a tool for a client that wanted to compare the Daily Volume of stocks traded and calculate the Return for multiple stocks. I compared a list of 12 stocks from 2017 and 2018. 
+## Overview of Project: 
+> The purpose of this analysis was to provide a tool for a client that wanted to compare the Daily Volume of stocks traded and calculate the Return for multiple stocks. I compared a list of 12 stocks from 2017 and 2018. 
 
 ## Results: 
 
-Based on the results given, it seems that ENPH and RUN would be two stocks that I would suggest to invest in as the Annual Return is positive from both 2017 and 2018. I was able to analyze this from the total data by creating macros that were able to search through data from each respective worksheet. I created for loops and applied conditionals to extract information from the data given to each respective year of the 12 stocks. I also created arrays when comparing the 12 stock options. For the original VBA script code used for this, the code was able to calculate the Returns and Daily Volume but the run time was significantly longer than the refactored code. One interesting thing I learned that was helpful was the use of concatenation and creating an input box in order to compare the 12 stocks based on the year you type in the input box. 
+> Based on the results given, it seems that ENPH and RUN would be two stocks that I would suggest to invest in as the Annual Return is positive from both 2017 and 2018. I was able to analyze this from the total data by creating macros that were able to search through data from each respective worksheet. I created for loops and applied conditionals to extract information from the data given to each respective year of the 12 stocks. I also created arrays when comparing the 12 stock options. For the original VBA script code used for this, the code was able to calculate the Returns and Daily Volume but the run time was significantly longer than the refactored code. One interesting thing I learned that was helpful was the use of concatenation and creating an input box in order to compare the 12 stocks based on the year you type in the input box. 
 
 **Example of the code used for the InputBox is:**
 
