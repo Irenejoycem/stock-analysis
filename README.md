@@ -10,6 +10,9 @@
 
 > ![2017 Results](2017Analysis.PNG)
 
+> Here were the results I analyzed in 2018:
+![2017 Results](2017Analysis.PNG)
+
 
 ## Summary: 
 
