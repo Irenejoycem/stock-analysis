@@ -16,8 +16,9 @@
 
 > Based on the results given, it seems that ENPH and RUN would be two stocks that I would suggest to invest in as the Annual Return is positive from both 2017 and 2018. I was able to analyze this from the total data by creating macros that were able to search through data from each respective worksheet. I created for loops and applied conditionals to extract information from the data given to each respective year of the 12 stocks. For the original VBA script code used for this, the code was able to calculate the Returns and Daily Volume but the run time was significantly longer than the refactored code. 
 
-![2017 Run Time of Refactored Code](VBA_Challenge_2017.png)
-
+> Below are the run times of the refactored code which is significantly faster than the run time from the original code created for the analysis.
+> ![2017 Run Time of Refactored Code](VBA_Challenge_2017.png)
+> ![2018 Run Time of Refactored Code](VBA_Challenge_2018.png)
 
 ## Summary: 
 
