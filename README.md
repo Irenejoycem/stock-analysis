@@ -4,7 +4,7 @@
 
 ## Results: 
 
-> Based on the results given, it seems that ENPH and RUN would be two stocks that I would suggest to invest in as the Annual Return is positive from both 2017 and 2018. I was able to analyze this from the total data by creating macros that were able to search through data from each respective worksheet. I created for loops and applied conditionals to extract information from the data given to each respective year of the 12 stocks. I also created arrays when comparing the 12 stock options. One interesting thing I learned that was helpful was the use of concatenation and creating an input box in order to compare the 12 stocks based on the year you type in the input box. For the original VBA script code used for this, the code was able to calculate the Returns and Daily Volume but the run time was significantly longer than the refactored code. 
+> Based on the results given, it seems that ENPH and RUN would be two stocks that I would suggest to invest in as the Annual Return is positive from both 2017 and 2018. I was able to analyze this from the total data by creating macros that were able to search through data from each respective worksheet. I created for loops and applied conditionals to extract information from the data given to each respective year of the 12 stocks. I also created arrays when comparing the 12 stock options. One interesting thing I learned that was helpful was the use of concatenation and creating an input box in order to compare the 12 stocks based on the year you type in the input box. For the original VBA script code used for this, the code was able to calculate the Returns and Daily Volume but the run time was significantly longer than the refactored code. I also learned it is important to set make sure to set your variables to the right data type when writing or refactoring code.  
 
 **Example of the code used for the InputBox is:**
 
@@ -18,18 +18,15 @@
 
 ```Worksheets(yearValue).Activate```
 
- **Here were the results I analyzed in 2017:**
+ **Here were the results I analyzed in 2017 with the run time for refactored code included:**
 
-> ![2017 Stocks Results](2017Analysis.PNG)
+> ![2017 Stocks Results](VBA_Challenge_2017.png)
 
- **Here were the results I analyzed in 2018:**
+ **Here were the results I analyzed in 2018 with the run time for refactored code included:**
 
-> ![2018 Stocks Results](2018Analysis.PNG)
+> ![2018 Stocks Results](VBA_Challenge_2017.png)
 
-**Below are the run times of the refactored code which is significantly faster than the run time from the original code created for the analysis.**
-
- ![2017 Run Time of Refactored Code](VBA_Challenge_2017.png)
- ![2018 Run Time of Refactored Code](VBA_Challenge_2018.png)
+I noticed that the refactored code is more 
 
 ## Summary: 
 
