@@ -24,7 +24,7 @@
 
  **Here were the results I analyzed in 2018 with the run time for refactored code included:**
 
-> ![2018 Stocks Results](VBA_Challenge_2017.png)
+> ![2018 Stocks Results](VBA_Challenge_2018.png)
 
 I noticed that the refactored code is more 
 
